@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohan-srs
 - 👀 I’m interested in Nothing
-- 🌱 I’m currently learning React, Flutter
+- 🌱 I’m currently learning to React
 - 💞️ I’m looking to collaborate on Burger menu
 - 📫 How to reach me?  Call Cherry!🍒
 
